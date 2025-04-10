@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training.Sessions", "Training.Sessions\Training.Sessions.csproj", "{953A2335-5150-46FF-912F-9142F1330CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS", "EMS\EMS.csproj", "{2854DF75-2FEC-4538-95B1-DD1B0C60AA0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{953A2335-5150-46FF-912F-9142F1330CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{953A2335-5150-46FF-912F-9142F1330CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{953A2335-5150-46FF-912F-9142F1330CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2854DF75-2FEC-4538-95B1-DD1B0C60AA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2854DF75-2FEC-4538-95B1-DD1B0C60AA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2854DF75-2FEC-4538-95B1-DD1B0C60AA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2854DF75-2FEC-4538-95B1-DD1B0C60AA0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
